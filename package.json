@@ -1,0 +1,6 @@
+{
+  "name": "mcp-dependency-fixture",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
